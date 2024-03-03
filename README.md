@@ -1,6 +1,7 @@
 # Sign Android Release Action
 
 This action will help you sign an Android `.apk` or `.aab` (Android App Bundle) file for release.
+This is a fork of [r0adkll/sign-android-release](https://github.com/r0adkll/sign-android-release). The original sadly has not been updated for a while and will stop working once the github actions servers stop supporting node12. I just forked it to get an action with updated dependencies.
 
 ## Inputs
 
